@@ -1,5 +1,7 @@
 # 🛡️ Conversation Metrics & Scrubbing Utility
 
+### Technical Report: [Conversation Analysis Technical Report](https://github.com/user-attachments/files/20151092/Conversation.Analysis.Technical.Report.docx)
+
 A modular pipeline to process conversation JSON files, analyze silence/overtalk durations, detect profane language, and detect sensitive information.
 
 ---
