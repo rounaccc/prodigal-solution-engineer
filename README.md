@@ -1,6 +1,6 @@
 # 🛡️ Conversation Metrics & Scrubbing Utility
 
-A modular pipeline to process conversation JSON files, analyze silence/overtalk durations, detect profane language, and scrub sensitive information (like PII).
+A modular pipeline to process conversation JSON files, analyze silence/overtalk durations, detect profane language, and detect sensitive information.
 
 ---
 
@@ -73,8 +73,8 @@ Update `config.yaml` with the appropriate API keys and paths.
 
 ## ✅ Usage
 
-- `streamlit run app.py` contains Streamlit App for Profanity Detection and Sensitive Information Detection 
-- `streamlit run main.py` contains Streamlit App for Conversation Duration Analysis
+- `streamlit run app.py` - A Streamlit App for Profanity Detection and Sensitive Information Detection 
+- `streamlit run main.py` - A Streamlit App for Conversation Duration Analysis
 - Use individual utilities from `src/utils/`
 - Explore and test features in `research/` notebooks
 
@@ -84,8 +84,3 @@ Update `config.yaml` with the appropriate API keys and paths.
 
 Pull requests are welcome! For major changes, please open an issue first.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
