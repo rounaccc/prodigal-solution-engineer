@@ -1,0 +1,4 @@
+ProfaneWords:
+  PROFANE_WORDS_PATH: 'artifacts\\profane-words.json'
+  CONVERSATIONS_FOLDER: 'artifacts\\All_Conversations'
+  API_KEY: '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'
