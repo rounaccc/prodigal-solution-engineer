@@ -16,9 +16,9 @@ A modular pipeline to process conversation JSON files, analyze silence/overtalk 
 │   └── utils/
 │       ├── profane.py              # Utility functions for profanity detection
 │       └── sensitive_information.py # Utility functions for redacting sensitive/PII info
-├── app.py                           # Entry point for web/app interface (Streamlit/Flask)
+├── app.py                           # Profanity and Sensitive Information Violation Streamlit
 ├── config.yaml                      # Contains file paths and API key configurations
-├── main.py                          # Main script to run the pipeline
+├── main.py                          # Call Visualization Streamlit script
 ├── requirements.txt                 # Project dependencies
 └── .gitignore
 ```
