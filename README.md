@@ -50,15 +50,15 @@ https://github.com/user-attachments/assets/9e25e6ee-2a09-4ebf-b133-6d04e48ac366
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/rounaccc/prodigal-solution-engineer.git
 cd your-repo-name
 ```
 
 ### 2. Set Up Virtual Environment (Optional but Recommended)
 
 ```bash
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+python -m venv .venv
+source .venv/bin/activate        # On Windows: . .venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
